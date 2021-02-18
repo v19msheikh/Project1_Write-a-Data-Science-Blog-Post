@@ -22,26 +22,26 @@
 ## 2. which Countries data was collected from during survey?
 ![](Screenshots/2.png)
 
--United States         11455
--India                  5197
--United Kingdom         4395
--Germany                4143
--Canada                 2233
--France                 1740
--Poland                 1290
--Australia               913
--Russian Federation      873
--Spain                   864
--Netherlands             855
--Italy                   781
--Brazil                  777
--Sweden                  611
--Switzerland             595
--Israel                  575
--Romania                 561
--Iran                    507
--Austria                 477
--Pakistan                454
+- United States         11455
+- India                  5197
+- United Kingdom         4395
+- Germany                4143
+- Canada                 2233
+- France                 1740
+- Poland                 1290
+- Australia               913
+- Russian Federation      873
+- Spain                   864
+- Netherlands             855
+- Italy                   781
+- Brazil                  777
+- Sweden                  611
+- Switzerland             595
+- Israel                  575
+- Romania                 561
+- Iran                    507
+- Austria                 477
+- Pakistan                454
 
 
 
