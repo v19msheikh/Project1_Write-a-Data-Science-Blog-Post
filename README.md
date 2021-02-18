@@ -45,15 +45,56 @@
 
 
 
-## 3. The rate of increase in salary with the years of experience
+## 3. How satisfied were the working professionals?
 ![](Screenshots/3.png)
 
-With no surprise, the pattern is linear over the number of years of experience. Those very new to the tech industry, with less than a year of experience, can expect to get a normal pay of $24,673 (a year-over-year increment of 12.16 percent). Following a year or two, that normal pay hops to $33,953 (a whopping 37.6 percent expansion, year-over-year).
+- I never completed any formal education                               6.833333
+- Bachelor's degree                                                    6.866363
+- Master's degree                                                      6.953151
+- Primary/elementary school                                            6.956897
+- I prefer not to answer                                               7.005682
+- Some college/university study without earning a bachelor's degree    7.081334
+- Professional degree                                                  7.087459
+- Secondary school                                                     7.143082
+- Doctoral degree                                                      7.348857
 
-## 4. More Languages = More Money?
+## 4. How education may influence the salary?
 ![](Screenshots/4.png)
 
-It doesn't make much difference at all. A developer specialized in one programming language get a normal pay of $53,202 whereas the one who is skilled in 9 different languages get a normal compensation of $53,301 (0.18% more).
+-	Bachelor's degree	56914.358553
+-	Doctoral degree	78527.933053
+-	I never completed any formal education	44430.660621
+-	I prefer not to answer	38284.836141
+-	Master's degree	58250.838766
+-	Primary/elementary school	62677.337356
+-	Professional degree	39503.658863
+-	Secondary school	40395.148419
+-	Some college/university study without earning ...	55912.810459
+
+## 5. Rate of increase of salary with years of experience ?
+![](Screenshots/5.png)
+
+-	1 to 2 years	35625.727186
+-	10 to 11 years	47723.234743
+-	11 to 12 years	55617.139567
+-	12 to 13 years	56225.344348
+-	13 to 14 years	56449.998540
+-	14 to 15 years	63527.583591
+-	15 to 16 years	63149.645686
+-	16 to 17 years	65109.493505
+-	17 to 18 years	74186.535157
+-	18 to 19 years	70397.724801
+-	19 to 20 years	73228.867280
+-	2 to 3 years	33140.925726
+-	20 or more years	84323.386020
+-	3 to 4 years	38169.784702
+-	4 to 5 years	37945.601195
+-	5 to 6 years	40812.610874
+-	6 to 7 years	41932.453974
+-	7 to 8 years	43901.717442
+-	8 to 9 years	46125.956771
+- 9 to 10 years	49300.837745
+-	Less than a year	27349.336436
 
 
 ## Requirements
