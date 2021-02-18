@@ -10,10 +10,14 @@
 - The rate of increase in salary with the years of experience
 
 ## Summary
-## 1. How education may influence the salary?
+## 1.What was the developers Profession and formal education?
 ![](Screenshots/1.png)
 
-The developers who own a Doctoral Degree get the highest salary of $78,527, followed by Primary/Elementary School graduates at $62,677 and Master's Degree holder at normal pay of $58,250.
+Professional developer                                  36131
+Student                                                  8224
+Professional non-developer who sometimes writes code     5140
+Used to be a professional developer                       983
+None of these                                             914
 
 ## 2. Gender Ratio of developers across the globe
 
