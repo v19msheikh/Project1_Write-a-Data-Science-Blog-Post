@@ -13,11 +13,11 @@
 ## 1.What was the developers Profession and formal education?
 ![](Screenshots/1.png)
 
-Professional developer                                  36131
-Student                                                  8224
-Professional non-developer who sometimes writes code     5140
-Used to be a professional developer                       983
-None of these                                             914
+- Professional developer                                  36131
+- Student                                                  8224
+- Professional non-developer who sometimes writes code     5140
+- Used to be a professional developer                       983
+- None of these                                             914
 
 ## 2. Gender Ratio of developers across the globe
 
