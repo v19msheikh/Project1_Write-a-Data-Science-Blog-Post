@@ -19,9 +19,31 @@
 - Used to be a professional developer                       983
 - None of these                                             914
 
-## 2. Gender Ratio of developers across the globe
+## 2. which Countries data was collected from during survey?
+![](Screenshots/2.png)
 
-In this survey, only 2,595 females were recorded out of 34,140 responses which states that there are only 13 female developers over 100 male developers
+-United States         11455
+-India                  5197
+-United Kingdom         4395
+-Germany                4143
+-Canada                 2233
+-France                 1740
+-Poland                 1290
+-Australia               913
+-Russian Federation      873
+-Spain                   864
+-Netherlands             855
+-Italy                   781
+-Brazil                  777
+-Sweden                  611
+-Switzerland             595
+-Israel                  575
+-Romania                 561
+-Iran                    507
+-Austria                 477
+-Pakistan                454
+
+
 
 ## 3. The rate of increase in salary with the years of experience
 ![](Screenshots/3.png)
