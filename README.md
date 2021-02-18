@@ -1,6 +1,6 @@
-### Project1_Write-a-Data-Science-Blog-Post
+# Project1_Write-a-Data-Science-Blog-Post
 
-# Stack OverFlow Developers Survey, 2017
+## Stack OverFlow Developers Survey, 2017
 
 ## Objectives
 - What was the developers Profession and formal education ?
