@@ -3,10 +3,11 @@
 # Stack OverFlow Developers Survey, 2017
 
 ## Objectives
+- What was the developers Profession and formal education ?
+- which Countries data was collected from during survey?
+- How satisfied were the working professionals?
 - How education may influence the salary?
-- Gender Ratio of developers across the globe
 - The rate of increase in salary with the years of experience
-- More Languages = More Money?
 
 ## Summary
 ## 1. How education may influence the salary?
