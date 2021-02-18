@@ -30,14 +30,11 @@ With no surprise, the pattern is linear over the number of years of experience. 
 It doesn't make much difference at all. A developer specialized in one programming language get a normal pay of $53,202 whereas the one who is skilled in 9 different languages get a normal compensation of $53,301 (0.18% more).
 
 
-## View a detailed analysis report on Medium
-[![Medium](Screenshots/medium_logo.png)](https://medium.com/@rowhitswami/4-crunching-facts-of-stack-overflow-developer-survey-17-441eb082331f)
-
 ## Requirements
 `pandas`, `matplotlib`, `jupyter-notebook` (if running locally)
 
 ## Files in the repo
-- `application.ipynb` - Analysis
+- `Write-a-Data-Science-Blog-Post.ipynb` - Analysis
 - `survey_results_public.csv` - Developers Survey Result Data
 - `survey_results_schema.csv` `reviews.csv` - Developers Survey Result Schema
 
@@ -46,7 +43,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
  
-**Copyright (c) 2021 Mohamed Hassan**
+**Copyright (c) 2021 V19Msheikh**
 
 This project is licensed under  GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details
 
