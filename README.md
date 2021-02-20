@@ -97,7 +97,8 @@ Analysing the Developers survey 2017 data from Stack Overflow. This dataset give
 -	8 to 9 years	46125.956771
 - 9 to 10 years	49300.837745
 -	Less than a year	27349.336436
-
+## View a detailed analysis report on Blooger
+[![Medium](Screenshots/medium_logo.png)](https://medium.com/@rowhitswami/4-crunching-facts-of-stack-overflow-developer-survey-17-441eb082331f)
 
 ## Requirements
 `pandas`, `matplotlib`, `jupyter-notebook` (if running locally)
