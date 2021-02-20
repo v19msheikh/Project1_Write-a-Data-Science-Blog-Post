@@ -2,6 +2,8 @@
 
 ## Stack OverFlow Developers Survey, 2017
 
+Analysing the Developers survey 2017 data from Stack Overflow. This dataset gives an insight about the suggestions given by working professionals in the tech industry to their cousins about how to storm start their careers in tech industry as they belongs to non tech background.
+
 ## Objectives
 - What was the developers Profession and formal education ?
 - which Countries data was collected from during survey?
